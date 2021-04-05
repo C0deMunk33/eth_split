@@ -1,1 +1,1 @@
-# eth_split
+# points_split
